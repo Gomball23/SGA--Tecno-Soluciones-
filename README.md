@@ -7,7 +7,7 @@ El proyecto SGA (Sistema de Gestión Académica) tiene como objetivo digitalizar
 
 Construir la base funcional del SGA permitiendo a los administradores gestionar usuarios y la estructura académica, y a los estudiantes autenticarse y consultar sus notas.
 
----
+
 
 # Historias de Usuario Sprint 1
 
@@ -17,7 +17,7 @@ Construir la base funcional del SGA permitiendo a los administradores gestionar 
 - US 2.2 Gestión de Períodos y Secciones
 - US 4.2 Consulta de Notas
 
----
+
 
 # Tecnologías
 
@@ -26,7 +26,7 @@ Construir la base funcional del SGA permitiendo a los administradores gestionar 
 - Bootstrap
 - GitHub Projects
 
----
+
 
 # Equipo Scrum
 
@@ -36,7 +36,7 @@ Construir la base funcional del SGA permitiendo a los administradores gestionar 
 - Frontend Developer
 - QA & DevOps
 
----
+
 
 # Estado del Proyecto
 
