@@ -28,9 +28,9 @@ Construir la base funcional del SGA permitiendo a los administradores gestionar 
 | Rol | Integrante |
 |------|------------|
 | Scrum Master | Bruno |
-| Product Owner | Italo |
+| Product Owner | Felipe |
 | Backend Developer | Eduardo |
-| Frontend Developer | Felipe |
+| Frontend Developer | Italo |
 | QA / DevOps | William |
 
 ---
