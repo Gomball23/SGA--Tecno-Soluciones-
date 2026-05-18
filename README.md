@@ -1,37 +1,43 @@
 # SGA--Tecno-Soluciones-
 
-## Sistema de Gestión Académica
+## Sprint 0 Goal
 
-El proyecto SGA (Sistema de Gestión Académica) tiene como objetivo digitalizar y optimizar los procesos académicos de una universidad, permitiendo administrar estudiantes, docentes, asignaturas, períodos académicos, matrículas y notas mediante una plataforma web segura y escalable.
-
----
-
-# Sprint Goal
-
-Construir la base funcional del SGA permitiendo a los administradores gestionar usuarios y la estructura académica, y a los estudiantes autenticarse y consultar sus notas, dejando el sistema listo para habilitar el proceso de matrícula en el siguiente sprint.
+El equipo tiene el entorno configurado, el repositorio Git Flow activo, el SRS en borrador (IEEE 830) y el Product Backlog en Github Projects.
 
 ---
 
-# Historias de Usuario Sprint 1
+# Equipo - Tecno-Soluciones-
 
-- US 1.1 Registro de Usuarios
-- US 1.2 Inicio de Sesión
-- US 2.1 Creación de Asignaturas
-- US 2.2 Gestión de Períodos y Secciones
-- US 4.2 Consulta de Notas
-- US 5.1 Generación de Acta PDF (Stretch Goal)
+| Rol           | Integrante    | Github                |
+|---------------|---------------|-----------------------|
+| Product Owner | Italo         | @italohuamanlazo-svg  |
+| Scrum Master  | Bruno         | @Natan-Pex-Git        |
+| Backend Dev   | Eduardo       | @Gomball23            |
+| Frontend Dev  | Felipe        | @Felipe Tang          |
+| QA / DevOps   | William       | @r01115c              |
 
 ---
 
-# Equipo Scrum
+# Stack Tecnológico
 
-| Rol | Integrante |
-|------|------------|
-| Scrum Master | Bruno |
-| Product Owner | Italo |
-| Backend Developer | Eduardo |
-| Frontend Developer | Felipe |
-| QA / DevOps | William |
+- Python 3.14.5 | Django 5.1    | DRF  3.15+
+- Bootstrap 5   | SQLite (dev)  | PostgreSQL (prod)
+
+---
+
+# Cómo ejecutar el proyecto localmente
+
+bash
+git clone https://github.com/Gomball23/SGA--Tecno-Soluciones-
+cd SGA--Tecno-Soluciones-
+python -m venv venv
+venv\Scripts\activate               #Windows
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
+
+
+Navegar a http://127.0.0.1:8000/
 
 ---
 
