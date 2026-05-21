@@ -13,7 +13,7 @@ El equipo tiene el entorno configurado, el repositorio Git Flow activo, el SRS e
 | Product Owner | Italo         | @italohuamanlazo-svg  |
 | Scrum Master  | Bruno         | @Natan-Pex-Git        |
 | Backend Dev   | Eduardo       | @Gomball23            |
-| Frontend Dev  | Felipe        | @Felipe Tang          |
+| Frontend Dev  | Felipe        | @Felepw               |
 | QA / DevOps   | William       | @r01115c              |
 
 ---
